@@ -4,7 +4,9 @@ Demo task for e-commerce
 **Dependencies**
 
 Python 3.7+
+
 Pip
+
 Other listed in requirements.txt
 
 **Running**
