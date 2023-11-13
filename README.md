@@ -9,7 +9,7 @@ Other listed in requirements.txt
 
 **Running**
 
-`git clone`
+`git clone https://github.com/aizazhussain341/forsit-demo-task.git`
 
 **Create a Virtual Environment using**
 
